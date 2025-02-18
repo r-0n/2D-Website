@@ -17,3 +17,4 @@ export function displayDialogue(text, onDisplayEnd) {
     }, 1);
 
     const closeBtn = document.getElementById("close");
+}
